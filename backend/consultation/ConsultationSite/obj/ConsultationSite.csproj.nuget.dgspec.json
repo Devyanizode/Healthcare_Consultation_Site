@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\newdemo\\backend\\consultation\\ConsultationSite\\ConsultationSite.csproj": {}
+    "C:\\Users\\devya\\OneDrive\\Desktop\\Final Project\\backend\\consultation\\ConsultationSite\\ConsultationSite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\newdemo\\backend\\consultation\\ConsultationSite\\ConsultationSite.csproj": {
+    "C:\\Users\\devya\\OneDrive\\Desktop\\Final Project\\backend\\consultation\\ConsultationSite\\ConsultationSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\newdemo\\backend\\consultation\\ConsultationSite\\ConsultationSite.csproj",
+        "projectUniqueName": "C:\\Users\\devya\\OneDrive\\Desktop\\Final Project\\backend\\consultation\\ConsultationSite\\ConsultationSite.csproj",
         "projectName": "ConsultationSite",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\newdemo\\backend\\consultation\\ConsultationSite\\ConsultationSite.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\newdemo\\backend\\consultation\\ConsultationSite\\obj\\",
+        "projectPath": "C:\\Users\\devya\\OneDrive\\Desktop\\Final Project\\backend\\consultation\\ConsultationSite\\ConsultationSite.csproj",
+        "packagesPath": "C:\\Users\\devya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\devya\\OneDrive\\Desktop\\Final Project\\backend\\consultation\\ConsultationSite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\devya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
